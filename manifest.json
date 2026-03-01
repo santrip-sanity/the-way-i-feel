@@ -1,0 +1,32 @@
+{
+  "name": "The Way I Feel - Mood Tracker",
+  "short_name": "Mood Tracker",
+  "description": "Daily mood tracker with calendar view and emotional insights. Private and secure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["health", "wellness", "lifestyle"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/web.app.manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/web.app.manifest-192x192.png",
+      "sizes": "192x192", 
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web.app.manifest-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png", 
+      "purpose": "any"
+    }
+  ]
+}
